@@ -1,0 +1,2 @@
+# my-wp-project
+WPAutoTest
